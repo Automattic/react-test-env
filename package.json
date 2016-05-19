@@ -1,0 +1,32 @@
+{
+  "name": "react-test-env",
+  "version": "0.0.1",
+  "description": "React Test Environment Setup",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Automattic/react-test-env.git"
+  },
+  "author": "@automattic",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Automattic/react-test-env/issues"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/Automattic/react-test-env#readme",
+  "dependencies": {
+    "debug": "2.2.0",
+    "jsdom": "^7.2.0",
+    "lodash.assign": "^4.0.8"
+  },
+  "peerDependencies": {
+    "react": "^0.14.8"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "react-dom": "0.14.8"
+  }
+}
