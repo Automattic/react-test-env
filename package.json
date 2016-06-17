@@ -1,11 +1,14 @@
 {
   "name": "react-test-env",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Test Environment Setup",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Automattic/react-test-env.git"
+  },
+  "engines" : {
+    "node" : ">=4.2.0"
   },
   "author": "@automattic",
   "license": "GPL-2.0",
