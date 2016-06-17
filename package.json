@@ -22,7 +22,7 @@
     "lodash.assign": "^4.0.8"
   },
   "peerDependencies": {
-    "react": "^0.14.8"
+    "react": ">=0.14.8"
   },
   "devDependencies": {
     "chai": "^3.5.0",
