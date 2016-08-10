@@ -21,8 +21,8 @@
   "homepage": "https://github.com/Automattic/react-test-env#readme",
   "dependencies": {
     "debug": "2.2.0",
-    "jsdom": "^7.2.0",
-    "lodash.assign": "^4.0.8"
+    "jsdom": "9.4.1",
+    "lodash.assign": "4.1.0"
   },
   "peerDependencies": {
     "react": ">=0.14.8"
