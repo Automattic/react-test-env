@@ -1,6 +1,6 @@
 {
   "name": "react-test-env",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "React Test Environment Setup",
   "main": "lib/index.js",
   "repository": {
@@ -24,12 +24,8 @@
     "jsdom": "9.4.1",
     "lodash.assign": "4.1.0"
   },
-  "peerDependencies": {
-    "react": ">=0.14.8"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "react-dom": "0.14.8"
+    "mocha": "^2.4.5"
   }
 }
