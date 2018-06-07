@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Automattic/react-test-env.git"
   },
   "engines": {
-    "node": ">=4.2.0"
+    "node": ">=6"
   },
   "author": "@automattic",
   "license": "GPL-2.0",
